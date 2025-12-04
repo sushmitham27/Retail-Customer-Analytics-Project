@@ -1,6 +1,6 @@
 🛒 Retail Customer Analytics Project
 
-A data analytics project designed to understand customer shopping behavior, identify spending patterns, and uncover insights that can help retail businesses make informed decisions.
+A data analytics project designed to understand customer shopping behavior, identify spending patterns, and uncover insights that help retail businesses make informed decisions.
 
 📌 Project Overview
 This project analyzes a retail customer dataset to explore:
@@ -11,19 +11,20 @@ This project analyzes a retail customer dataset to explore:
 * Visual insights through dashboards
 It includes data cleaning, exploratory data analysis (EDA), SQL/Python-based insights, and dashboard visualizations.
 
-📂 Repository Structure (File / Folder-Description)
+📂 Repository Structure (File/Folder - Description)
 
 * customer_shopping_behavior.csv	       -        Raw dataset used for analysis
 * customer_shopping_behavior_analysis.ipynb -    Main notebook containing EDA, cleaning & insights
 * postgresSQL	         -             SQL queries used in the analysi
-* dashboard	           -              Reports, screenshots or Power BI dashboards
+* customer_behavior_dashboard.pbix       -           Power BI dashboards
 
 🧰 Technologies Used
 * Python
     * pandas
     * numpy
-    * matplotlib / seaborn
-    * jupyter notebook
+    * matplotlib
+    * seaborn
+* Jupyter notebook
 * PostgreSQL
 * Power BI (used for dashboard)
 
