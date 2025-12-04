@@ -10,12 +10,11 @@ This project analyzes a retail customer dataset to explore:
 * Visual insights through dashboards
 It includes data cleaning, exploratory data analysis (EDA), SQL/Python-based insights, and dashboard visualizations.
 
-📂 Repository Structure
-File / Folder	                                 Description
-customer_shopping_behavior.csv	               Raw dataset used for analysis
-customer_shopping_behavior_analysis.ipynb	     Main notebook containing EDA, cleaning & insights
-queries.sql (optional)	                       SQL queries used in the analysis
-dashboard/ (optional)	                         Reports, screenshots or Power BI/Tableau dashboards
+📂 Repository Structure (File / Folder-Description)
+*customer_shopping_behavior.csv	       -        Raw dataset used for analysis
+*customer_shopping_behavior_analysis.ipynb -    Main notebook containing EDA, cleaning & insights
+*postgresSQL	         -             SQL queries used in the analysis
+*dashboard	           -              Reports, screenshots or Power BI dashboards
 
 🧰 Technologies Used
 * Python
