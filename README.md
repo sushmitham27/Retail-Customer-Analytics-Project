@@ -1,4 +1,4 @@
-🛒 Retail Customer Analytics Project
+#🛒 Retail Customer Analytics Project
 A data analytics project designed to understand customer shopping behavior, identify spending patterns, and uncover insights that can help retail businesses make informed decisions.
 
 📌 Project Overview
